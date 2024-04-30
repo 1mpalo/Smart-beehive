@@ -23,6 +23,11 @@ Every second we read data form thermometer.Then we print it on our display, and 
 
 <img width="1280" alt="Neat Crift-Bombul" src="https://github.com/1mpalo/Smart-beehive/assets/148369119/c580285c-59eb-4dab-8a70-a42730ed84e2">
 
+# The prototype
+
+![image](https://github.com/1mpalo/Smart-beehive/assets/148369119/b4d58ef2-362a-4a84-a733-598fbf5e5eaa)
+
+
 # Future plans
 
 To add humidity sensor to control the weather or field pollination
